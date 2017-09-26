@@ -22,7 +22,7 @@ git add .
 
 And to filepath:
 
-./project/.git/hooks
+./project_name/.git/hooks
 
 сopy "pre-commit" from this repository.
 

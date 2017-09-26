@@ -24,7 +24,7 @@ And to filepath:
 
 ./project/.git/hooks
 
-Copy "pre-commit" from this repository.
+сopy "pre-commit" from this repository.
 
 # How it get
 

@@ -6,9 +6,25 @@ Pre-commit hook that stoped commit if it dont pass tests.
 
 Python 3 should be already installed. 
 
-Gited programm too.
+Open git CMD and change filepath to filepath with u project.
 
-Overwrite "pre-commit" in /git/hooks/
+Like this:
+
+./project_name
+
+Then
+
+```bash
+git init
+
+git add .
+```
+
+And to filepath:
+
+./project/.git/hooks
+
+Copy "pre-commit" from this repository.
 
 # How it get
 

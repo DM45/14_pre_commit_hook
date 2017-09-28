@@ -1,6 +1,6 @@
 # Pre-commit hook
 
-Pre-commit hook that stoping commit if it did not pass tests.
+Pre-commit hook that cansels commit if it dont pass tests.
 
 # How to Install
 
@@ -15,9 +15,11 @@ copy .\14_pre_commit_hook\pre-commit .\project_name\.git\hooks
 ```
 where .\ - part of path to directory.
 
-# How it get
+# How it start
 
-When your try to commit programm, pre-commit autostart tests and print error, if they will not pass.
+```bash
+python quadratic_equation.py
+```
 
 # Project Goals
 

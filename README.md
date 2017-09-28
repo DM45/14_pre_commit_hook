@@ -1,30 +1,19 @@
 # Pre-commit hook
 
-Pre-commit hook that stoped commit if it dont pass tests.
+Pre-commit hook that stoping commit if it did not pass tests.
 
 # How to Install
 
 Python 3 should be already installed. 
 
-Open git CMD and change filepath to filepath with u project.
+Your project directory should be inited and indexed with Git.
 
-Like this:
-
-./project_name
-
-Then
+Clone this repository to your computer, and print to console:
 
 ```bash
-git init
-
-git add .
+copy .\14_pre_commit_hook\pre-commit .\project_name\.git\hooks
 ```
-
-And to filepath:
-
-./project_name/.git/hooks
-
-сopy "pre-commit" from this repository.
+where .\ - part of path to directory.
 
 # How it get
 

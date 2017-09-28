@@ -15,7 +15,7 @@ copy .\14_pre_commit_hook\pre-commit .\project_name\.git\hooks
 ```
 where .\ - part of path to directory.
 
-# How it start
+# How start example
 
 ```bash
 python quadratic_equation.py
